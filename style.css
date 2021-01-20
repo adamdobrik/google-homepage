@@ -9,6 +9,9 @@ width: 100%;height: 40px;}
 #signin {background-color: #4a56f8;
 color: white !important;
 font-weight: bold; border-radius: 10px;}
+
+#navright li {overflow: hidden; margin-top: 0!important;}
+
 #image {margin-top: 200px;}
 img {display: block; margin-right: auto; margin-left: auto;}
 ul {list-style: none;
